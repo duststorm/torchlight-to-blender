@@ -1,6 +1,4 @@
-#summary One-sentence summary of this page.
-
-= Introduction =
+#summary Modifying Torchlight 2 animated mesh in Blender
 
 Modifying Torchlight 2 animated mesh in Blender
 
